@@ -1,0 +1,11 @@
+fastapi>=0.116
+uvicorn[standard]>=0.35
+pydantic>=2.12
+pydantic-settings>=2.10
+httpx>=0.28
+pytest>=8.4
+pytest-asyncio>=1.4
+chromadb>=1.0
+beautifulsoup4>=4.13
+pypdf>=5.7
+python-dotenv>=1.1
